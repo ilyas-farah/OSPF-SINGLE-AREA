@@ -1,0 +1,1 @@
+# OSPF-SINGLE-AREA
