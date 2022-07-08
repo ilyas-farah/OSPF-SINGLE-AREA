@@ -77,3 +77,4 @@ Passive interface
 R1(config)#passive-interface g0/1
 R2(config)#passive-interface g0/1
 R3(config)#passive-interface g0/1
+![OSPF SINGLE AREA LAB](https://user-images.githubusercontent.com/106605770/177992667-fab410af-b734-4e46-884a-2371c3062c7b.jpg)
